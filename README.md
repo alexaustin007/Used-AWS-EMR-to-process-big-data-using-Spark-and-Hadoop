@@ -10,4 +10,7 @@ PySpark Development: I utilized the PySpark API, to develop the code for data fi
 Spark Submit Command: To execute the Spark code on the AWS EMR cluster, I utilized the "spark-submit" command for submission and execution of the Spark application also monitored using spark webUI.
 
 
+Faced a lot of difficulties while setting up AWS EMR due to some configurations, somehow overcame it using stackoverflow and chatgpt.
+
+
 
